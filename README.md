@@ -1,5 +1,8 @@
 # 9-Axis IMU Intan Sync Toolbox
 
+Author: Hongyu Chang
+Date: 2026/03/01
+
 This repository is organized as a small toolbox for collecting 9-axis IMU data with an Arduino Mega, sending a TTL sync pulse to an Intan system, and logging the IMU stream to a computer with Python.
 
 The active toolbox now has one supported Arduino sketch and one supported Python logger:
